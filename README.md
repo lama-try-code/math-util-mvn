@@ -7,7 +7,7 @@ project:
 
 * A Unit Test source code using JUnit Tes Framework
 
-*...
+* ...
 
 #### Connect me via dotranlam2003@gmail.com
 
