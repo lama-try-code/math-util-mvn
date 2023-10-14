@@ -42,7 +42,7 @@ public class MathUtilityTest {
         assertEquals(1, getFactorial(1));
     }
     
-    //Test Case #2: Verify getFactorial with n = 5
+    //Test Case #3: Verify getFactorial with n = 5
     //Steps: 
     //      1. Given n = 5
     //      2. Invoke getFactorial(n = 5)

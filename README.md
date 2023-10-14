@@ -8,7 +8,13 @@ project:
 
 * A Unit Test source code using JUnit Tes Framework
 
-* ...
+* TDD - Test Driven Development, and DDT - Data Driven Testing
+
+* Continous Integration (CI) script using GitHub actions
+
+* Regression testing technique when refactoring code
+
+*.... 
 
 ### Screen-shots
 
