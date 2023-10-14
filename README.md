@@ -1,3 +1,4 @@
+[![math-util-mvn apply CI](https://github.com/lama-try-code/math-util-mvn/actions/workflows/maven.yml/badge.svg)](https://github.com/lama-try-code/math-util-mvn/actions/workflows/maven.yml)
 ### Welcome to Math Utility Project Repository 
 
 ### You will find the following stuff in this repo a Maven 
